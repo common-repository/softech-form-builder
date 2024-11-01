@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-28 09:55+0000\n"
+"PO-Revision-Date: 2018-11-28 15:54+0530\n"
+"Last-Translator: \n"
+"Language-Team: हिन्दी\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.2\n"
+
+#: add-new.php:93 add-new.php:100
+msgid "* Invalid Email Address."
+msgstr "* अवैध ईमेल पता ।"
+
+#: add-new.php:92 add-new.php:99
+msgid "* Please Enter Email Address."
+msgstr "* कृपया ईमेल पता दर्ज करें ।"
+
+#: add-new.php:89
+msgid "* Please Enter Email Subject."
+msgstr "* कृपया ईमेल विषय दर्ज करें ।"
+
+#: add-new.php:42
+msgid "* Please Enter Your Form Name."
+msgstr "* कृपया अपने फार्म का नाम दर्ज करें ।"
+
+#: add-new.php:28
+msgid "Add New Form"
+msgstr "नया फॉर्म जोड़ें"
+
+#: list-table.php:175
+msgid "Add new Form"
+msgstr "नया फॉर्म जोड़ें"
+
+#: settings.php:46
+msgid ""
+"After adding the fields you have to choose a \"Subject\" & \"Email to\" field from Email "
+"setting Panel on your right side"
+msgstr ""
+"फ़ील्ड जोड़ने के बाद आप अपने दाईं ओर ईमेल सेटिंग पैनल से एक \"विषय\" & \"ईमेल\" फ़ील्ड का चयन करने के लिए है"
+
+#: settings.php:47
+msgid "After adding your form fields, you can save your form you have made."
+msgstr "आपके प्रपत्र फ़ील्ड्स जोड़ने के बाद, आप अपना प्रपत्र आपके द्वारा बनाए गए सहेज सकते हैं ।"
+
+#: settings.php:42
+msgid "After the installation is finished, you can go ahead and start working on your forms."
+msgstr "स्थापना के समाप्त होने के बाद, आप आगे जा सकते है और अपने प्रपत्रों पर कार्य करना प्रारंभ करें ।"
+
+#: settings.php:63
+msgid "After the saving your form, you can go ahead and publish your forms. "
+msgstr "आपके प्रपत्र को सहेजने के बाद, आप आगे जाकर अपने प्रपत्र प्रकाशित कर सकते हैं ।"
+
+#: add-new.php:68
+msgid "Agree Box"
+msgstr "सहमत बॉक्स"
+
+#: add-shortcode.php:93
+msgid "An unexpected error occurred"
+msgstr "एक अप्रत्याशित त्रुटि हुई"
+
+#: add-new.php:29
+msgid "Back To List"
+msgstr "दोबारा सूची को जाएं"
+
+#: add-new.php:65
+msgid "Checkbox"
+msgstr "चेकबॉक्स"
+
+#: settings.php:65
+msgid "Copy the shortcode of the form which you created."
+msgstr "उस प्रपत्र के शॉर्टकोड की प्रतिलिपि बनाएं जिसे आपने बनाया था ।"
+
+#. Parent Menu Slug
+#. Page Title
+#: plugin.php:75 plugin.php:76
+msgid "Create Form"
+msgstr "फॉर्म बनाएं"
+
+#: list-table.php:65
+msgid "Created Date"
+msgstr "रचना तिथि"
+
+#: settings.php:36
+msgid "Creating a new Form"
+msgstr "नया संपर्क फ़ॉर्म जोड़ें"
+
+#: list-table.php:42
+msgid "Delete"
+msgstr "हटाना"
+
+#: add-new.php:112 settings.php:77
+msgid "Do you need help?"
+msgstr "क्या आपको मदद की ज़रूरत है?"
+
+#: list-table.php:41
+msgid "Edit"
+msgstr "संपादित करें"
+
+#: add-new.php:53
+msgid "Email"
+msgstr "ईमेल"
+
+#: add-new.php:97
+msgid "Email From"
+msgstr "की ओर से ईमेल"
+
+#: add-new.php:86
+msgid "Email Settings."
+msgstr "ईमेल सेटिंग"
+
+#: add-new.php:88
+msgid "Email Subject"
+msgstr "ईमेल विषय"
+
+#: add-new.php:91
+msgid "Email To"
+msgstr "ईमेल को"
+
+#: add-new.php:117 settings.php:82
+msgid "FAQ"
+msgstr "सामान्य प्रश्न"
+
+#: add-new.php:76
+msgid "Form Builder Area"
+msgstr "फॉर्म बिल्डर क्षेत्र"
+
+#: list-table.php:63
+msgid "Form Name"
+msgstr "फ़ार्म का नाम"
+
+#: add-new.php:96
+msgid "From"
+msgstr "से"
+
+#. Parent Menu Slug
+#. Page Title
+#: plugin.php:82 plugin.php:83
+msgid "Get Help"
+msgstr "क्या आपको मदद की ज़रूरत है?"
+
+#: add-new.php:114 settings.php:79
+msgid "Here are some available options to help solve your problems."
+msgstr "अपनी समस्याओं को हल करने में सहायता के लिए यहां कुछ उपलब्ध विकल्प दिए गए हैं।"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://softechure.com/"
+msgstr ""
+
+#: settings.php:20
+msgid "Introduction"
+msgstr "परिचय"
+
+#: list-table.php:167
+#, php-format
+msgid "Items deleted: %d"
+msgstr "आइटम हटा दिए गए: %d"
+
+#. Description of the plugin
+msgid "Make a easy form by simple steps"
+msgstr "सरल चरणों से एक आसान फॉर्म बनाओ"
+
+#: settings.php:43
+msgid "Navigate to Softech Form Builder > Softech Forms page to build your very first form."
+msgstr "सोफटेक फॉर्म बिल्डर पर जाएं - सोफटेक फॉर्म पेज अपना पहला फॉर्म बनाने के लिए।"
+
+#: settings.php:64
+msgid "Navigate to Softech Form Builder > Softech Forms page to publish your very first form."
+msgstr "अपने पहले फॉर्म को प्रकाशित करने के लिए सोफ्टटेक फॉर्म बिल्डर> सोफ्टटेक फॉर्म पेज पर नेविगेट करें।"
+
+#: settings.php:66
+msgid "Now paste this shortcode on a page/post where you want to show"
+msgstr "अब इस शोर्ट को उस पृष्ठ / पोस्ट पर पेस्ट करें जहां आप दिखाना चाहते हैं"
+
+#: settings.php:67
+msgid "Now save the page."
+msgstr "अब पेज को सेव करें।"
+
+#: add-new.php:98
+msgid "Please Enter Domain Email Id"
+msgstr "कृपया डोमेन ईमेल आईडी दर्ज करें"
+
+#: add-new.php:41
+msgid "Please Enter Your Form Name"
+msgstr "कृपया अपना फॉर्म नाम दर्ज करें"
+
+#: settings.php:44
+msgid ""
+"Press Add New Form button from this page, and you will be redirected to Form Editor page. "
+"Make sure to write a Title for this form"
+msgstr ""
+"इस पृष्ठ से नया फॉर्म बटन जोड़ें दबाएं, और आपको फ़ॉर्म संपादक पृष्ठ पर रीडायरेक्ट कर दिया जाएगा। इस फ़ॉर्म के "
+"लिए एक शीर्षक लिखना सुनिश्चित करें"
+
+#: add-new.php:122 settings.php:87
+msgid "Professional Services"
+msgstr "व्यवसायी सेवाए"
+
+#: settings.php:57
+msgid "Publishing the Created Form"
+msgstr "बनाया गया फॉर्म प्रकाशित करना"
+
+#: add-new.php:62
+msgid "Radio Buttons"
+msgstr "रेडियो बटन"
+
+#: add-new.php:107
+msgid "Save Form"
+msgstr "फॉर्म सहेजें"
+
+#: add-new.php:59
+msgid "Select Box"
+msgstr "बॉक्स का चयन करें"
+
+#: add-new.php:46
+msgid "select input type below and drag it on right side. Then set more options"
+msgstr "नीचे इनपुट प्रकार का चयन करें और इसे दाईं तरफ खींचें। फिर और विकल्प सेट करें"
+
+#: list-table.php:64
+msgid "Shortcode"
+msgstr "छोटे संकेत"
+
+#. Page Title
+#. Name of the plugin
+#: plugin.php:57 plugin.php:58 settings.php:10
+msgid "Softech Form Builder"
+msgstr "सोफ्टेक फॉर्म बिल्डर"
+
+#: settings.php:26
+msgid ""
+"Softech Form Builder allow you to create contact forms, Reservation forms and other type of "
+"forms for your sites in minutes. Softech Form Builder can manage multiple forms, plus you can "
+"customize the form and the mail contents. The form supports Ajax-powered submitting and so on."
+msgstr ""
+"सोफ्टटेक फॉर्म बिल्डर आपको मिनटों में अपनी साइट्स के लिए संपर्क फ़ॉर्म, आरक्षण फॉर्म और अन्य प्रकार के फॉर्म "
+"बनाने की अनुमति देता है। सोफ्टटेक फॉर्म बिल्डर कई रूपों का प्रबंधन कर सकता है, साथ ही आप फॉर्म और मेल सामग्री "
+"को कस्टमाइज़ कर सकते हैं। फॉर्म अजाक्स संचालित सबमिशन का समर्थन करता है और इसी तरह।"
+
+#: settings.php:27
+msgid ""
+"Softech Form Builder make 100% mobile responsive contact form, so your contact forms will "
+"always look great on all devices (mobile, tablet, laptop, and desktop)."
+msgstr ""
+"सोफ्टटेक फॉर्म बिल्डर 100% मोबाइल उत्तरदायी संपर्क फ़ॉर्म बनाते हैं, इसलिए आपके संपर्क फ़ॉर्म हमेशा सभी उपकरणों "
+"(मोबाइल, टैबलेट, लैपटॉप और डेस्कटॉप) पर बहुत अच्छे लगेंगे।"
+
+#. %s: PHP version
+#: softech-form-builder.php:52
+#, php-format
+msgid "Softech Form Builder requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr "सोफ्टेक फॉर्म बिल्डर को PHP संस्करण %s+ की आवश्यकता है, प्लगइन वर्तमान में नहीं चल रहा है।"
+
+#. %s: WordPress version
+#: softech-form-builder.php:64
+#, php-format
+msgid ""
+"Softech Form Builder requires WordPress version %s+. Because you are using an earlier "
+"version, the plugin is currently NOT RUNNING."
+msgstr ""
+"सोफ्टेक फॉर्म बिल्डर के लिए वर्डप्रेस संस्करण %s+ की आवश्यकता है। चूंकि आप पहले के संस्करण का उपयोग कर रहे हैं, "
+"प्लगइन वर्तमान में नहीं चल रहा है।"
+
+#. Parent Menu Slug
+#. Page Title
+#: list-table.php:174 plugin.php:67 plugin.php:68
+msgid "Softech Forms"
+msgstr "सोफ्टेक फॉर्म"
+
+#: list-table.php:145
+msgid "Softech Forms per page"
+msgstr "प्रति पृष्ठ सोफ्टेक फॉर्म"
+
+#. Author of the plugin
+msgid "Softechure"
+msgstr ""
+
+#: add-new.php:105
+msgid "Status"
+msgstr "स्थिति"
+
+#: add-new.php:87
+msgid "Subject"
+msgstr "विषय"
+
+#: add-new.php:38
+msgid "Success! Your Form saved."
+msgstr "सफलता! आपका फॉर्म सहेजा गया"
+
+#: add-new.php:120 settings.php:85
+msgid "Support Forums"
+msgstr "समर्थन मंच"
+
+#: add-new.php:50
+msgid "Text"
+msgstr "टेक्स्ट"
+
+#: add-new.php:56
+msgid "Text Area"
+msgstr "पाठ क्षेत्र"
+
+#: add-shortcode.php:89
+msgid "Thanks for contact us expect a response soon."
+msgstr "हमसे संपर्क करने के लिए धन्यवाद जल्द ही एक प्रतिक्रिया की उम्मीद है।"
+
+#: add-new.php:90
+msgid "To"
+msgstr ""
+
+#: settings.php:45
+msgid ""
+"To add a new field to your form, Click on Field button which you want in your form. The field "
+"editor toolbox will be opened automatically. Then add a Label for input to your form. you can "
+"also make field Required by simply check the Required field."
+msgstr ""
+"अपने फॉर्म में नया फ़ील्ड जोड़ने के लिए, फ़ील्ड बटन पर क्लिक करें जिसे आप अपने फॉर्म में चाहते हैं। फ़ील्ड एडिटर "
+"टूलबॉक्स स्वचालित रूप से खोला जाएगा। फिर अपने फॉर्म में इनपुट के लिए एक लेबल जोड़ें। आप केवल आवश्यक फ़ील्ड को चेक "
+"करके फ़ील्ड आवश्यक भी कर सकते हैं।"
+
+#: add-shortcode.php:48
+msgid "Your Message Has Been Send!."
+msgstr "आपका संदेश भेज दिया गया है!"
+
+#~ msgid "Cc"
+#~ msgstr "प्रतिलिपि"
+
+#~ msgid "Docs"
+#~ msgstr "डॉक्स"
+
+#~ msgid "Email To Cc"
+#~ msgstr "सीसी को ईमेल करें"

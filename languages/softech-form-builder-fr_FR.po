@@ -1,0 +1,367 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-28 09:55+0000\n"
+"PO-Revision-Date: 2018-11-28 15:49+0530\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 2.2\n"
+
+#: add-new.php:93 add-new.php:100
+msgid "* Invalid Email Address."
+msgstr "* Adresse E-mail invalide."
+
+#: add-new.php:92 add-new.php:99
+msgid "* Please Enter Email Address."
+msgstr "* Veuillez entrer l'adresse email."
+
+#: add-new.php:89
+msgid "* Please Enter Email Subject."
+msgstr "Sujet du courriel."
+
+#: add-new.php:42
+msgid "* Please Enter Your Form Name."
+msgstr "S'il vous plaît entrez votre nom de formulaire."
+
+#: add-new.php:28
+msgid "Add New Form"
+msgstr "Ajouter un nouveau formulaire"
+
+#: list-table.php:175
+msgid "Add new Form"
+msgstr "Ajouter un nouveau formulaire"
+
+#: settings.php:46
+msgid ""
+"After adding the fields you have to choose a \"Subject\" & \"Email to\" "
+"field from Email setting Panel on your right side"
+msgstr ""
+"Après avoir ajouté les champs que vous avez à choisir un \"sujet\" et \"E-"
+"mail à\" champ du panneau de configuration E-mail sur votre côté droit"
+
+#: settings.php:47
+msgid "After adding your form fields, you can save your form you have made."
+msgstr ""
+"Après avoir ajouté vos champs de formulaire, vous pouvez enregistrer le "
+"formulaire que vous avez créé."
+
+#: settings.php:42
+msgid ""
+"After the installation is finished, you can go ahead and start working on "
+"your forms."
+msgstr ""
+"Une fois l'installation terminée, vous pouvez commencer et commencer à "
+"travailler sur vos formulaires."
+
+#: settings.php:63
+msgid "After the saving your form, you can go ahead and publish your forms. "
+msgstr ""
+"Après avoir sauvegardé votre formulaire, vous pouvez continuer et publier "
+"vos formulaires "
+
+#: add-new.php:68
+msgid "Agree Box"
+msgstr "Boîte d'accord"
+
+#: add-shortcode.php:93
+msgid "An unexpected error occurred"
+msgstr "une erreur inattendue est apparue"
+
+#: add-new.php:29
+msgid "Back To List"
+msgstr "Retour à la liste"
+
+#: add-new.php:65
+msgid "Checkbox"
+msgstr "Case à cocher"
+
+#: settings.php:65
+msgid "Copy the shortcode of the form which you created."
+msgstr "Copiez le shortcode du formulaire que vous avez créé."
+
+#. Parent Menu Slug
+#. Page Title
+#: plugin.php:75 plugin.php:76
+msgid "Create Form"
+msgstr "Créer un formulaire"
+
+#: list-table.php:65
+msgid "Created Date"
+msgstr "Date de création"
+
+#: settings.php:36
+msgid "Creating a new Form"
+msgstr "Créer un formulaire"
+
+#: list-table.php:42
+msgid "Delete"
+msgstr "Effacer"
+
+#: add-new.php:112 settings.php:77
+msgid "Do you need help?"
+msgstr "As-tu besoin d'aide?"
+
+#: list-table.php:41
+msgid "Edit"
+msgstr "modifier"
+
+#: add-new.php:53
+msgid "Email"
+msgstr ""
+
+#: add-new.php:97
+msgid "Email From"
+msgstr "Email de"
+
+#: add-new.php:86
+msgid "Email Settings."
+msgstr "Paramètres de messagerie."
+
+#: add-new.php:88
+msgid "Email Subject"
+msgstr "Sujet du courriel"
+
+#: add-new.php:91
+msgid "Email To"
+msgstr "Envoyer à"
+
+#: add-new.php:117 settings.php:82
+msgid "FAQ"
+msgstr ""
+
+#: add-new.php:76
+msgid "Form Builder Area"
+msgstr "Zone de création de formulaire"
+
+#: list-table.php:63
+msgid "Form Name"
+msgstr "Nom de forme"
+
+#: add-new.php:96
+msgid "From"
+msgstr "De"
+
+#. Parent Menu Slug
+#. Page Title
+#: plugin.php:82 plugin.php:83
+msgid "Get Help"
+msgstr "Obtenir de l'aide"
+
+#: add-new.php:114 settings.php:79
+msgid "Here are some available options to help solve your problems."
+msgstr ""
+"Voici quelques options disponibles pour vous aider à résoudre vos problèmes."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://softechure.com/"
+msgstr ""
+
+#: settings.php:20
+msgid "Introduction"
+msgstr ""
+
+#: list-table.php:167
+#, php-format
+msgid "Items deleted: %d"
+msgstr "Éléments supprimés:%d"
+
+#. Description of the plugin
+msgid "Make a easy form by simple steps"
+msgstr "Faire un formulaire facile par étapes simples"
+
+#: settings.php:43
+msgid ""
+"Navigate to Softech Form Builder > Softech Forms page to build your very "
+"first form."
+msgstr ""
+"Naviguez jusqu'à Softech Form Builder> page Softech Forms pour créer votre "
+"tout premier formulaire."
+
+#: settings.php:64
+msgid ""
+"Navigate to Softech Form Builder > Softech Forms page to publish your very "
+"first form."
+msgstr ""
+"Naviguez jusqu'à Softech Form Builder> page Softech Forms pour publier votre "
+"tout premier formulaire."
+
+#: settings.php:66
+msgid "Now paste this shortcode on a page/post where you want to show"
+msgstr ""
+"Maintenant, collez ce shortcode sur une page / post où vous voulez montrer"
+
+#: settings.php:67
+msgid "Now save the page."
+msgstr "Maintenant, enregistrez la page."
+
+#: add-new.php:98
+msgid "Please Enter Domain Email Id"
+msgstr "S'il vous plaît entrez votre nom de formulaire"
+
+#: add-new.php:41
+msgid "Please Enter Your Form Name"
+msgstr "S'il vous plaît entrez votre nom de formulaire"
+
+#: settings.php:44
+msgid ""
+"Press Add New Form button from this page, and you will be redirected to Form "
+"Editor page. Make sure to write a Title for this form"
+msgstr ""
+"Appuyez sur le bouton Ajouter un nouveau formulaire de cette page et vous "
+"serez redirigé vers la page de l'éditeur de formulaire. Assurez-vous "
+"d'écrire un titre pour ce formulaire"
+
+#: add-new.php:122 settings.php:87
+msgid "Professional Services"
+msgstr "Services professionnels"
+
+#: settings.php:57
+msgid "Publishing the Created Form"
+msgstr "Publication du formulaire créé"
+
+#: add-new.php:62
+msgid "Radio Buttons"
+msgstr "Boutons radio"
+
+#: add-new.php:107
+msgid "Save Form"
+msgstr "Enregistrer le formulaire"
+
+#: add-new.php:59
+msgid "Select Box"
+msgstr "Sélectionnez la boîte"
+
+#: add-new.php:46
+msgid ""
+"select input type below and drag it on right side. Then set more options"
+msgstr ""
+"sélectionnez le type de saisie ci-dessous et faites-le glisser à droite. "
+"Puis définissez plus d'options"
+
+#: list-table.php:64
+msgid "Shortcode"
+msgstr "Petit code"
+
+#. Page Title
+#. Name of the plugin
+#: plugin.php:57 plugin.php:58 settings.php:10
+msgid "Softech Form Builder"
+msgstr ""
+
+#: settings.php:26
+msgid ""
+"Softech Form Builder allow you to create contact forms, Reservation forms "
+"and other type of forms for your sites in minutes. Softech Form Builder can "
+"manage multiple forms, plus you can customize the form and the mail "
+"contents. The form supports Ajax-powered submitting and so on."
+msgstr ""
+"Softech Form Builder vous permet de créer des formulaires de contact, des "
+"formulaires de réservation et d'autres types de formulaires pour vos sites "
+"en quelques minutes. Softech Form Builder peut gérer plusieurs formulaires "
+"et vous pouvez également personnaliser le formulaire et le contenu du "
+"courrier. Le formulaire prend en charge la soumission alimentée par Ajax, "
+"etc."
+
+#: settings.php:27
+msgid ""
+"Softech Form Builder make 100% mobile responsive contact form, so your "
+"contact forms will always look great on all devices (mobile, tablet, laptop, "
+"and desktop)."
+msgstr ""
+"Softech Form Builder crée un formulaire de contact réactif 100% mobile, de "
+"sorte que vos formulaires de contact auront toujours fière allure sur tous "
+"les appareils (mobile, tablette, ordinateur portable et ordinateur de "
+"bureau)."
+
+#. %s: PHP version
+#: softech-form-builder.php:52
+#, php-format
+msgid ""
+"Softech Form Builder requires PHP version %s+, plugin is currently NOT "
+"RUNNING."
+msgstr ""
+"Softech Form Builder nécessite la version PHP %s+, le plugin n’exécute pas "
+"actuellement."
+
+#. %s: WordPress version
+#: softech-form-builder.php:64
+#, php-format
+msgid ""
+"Softech Form Builder requires WordPress version %s+. Because you are using "
+"an earlier version, the plugin is currently NOT RUNNING."
+msgstr ""
+"Softech Form Builder nécessite la version WordPress %s+. Comme vous utilisez "
+"une version antérieure, le plug-in N'EST PAS EN COURS."
+
+#. Parent Menu Slug
+#. Page Title
+#: list-table.php:174 plugin.php:67 plugin.php:68
+msgid "Softech Forms"
+msgstr "Formes Softech"
+
+#: list-table.php:145
+msgid "Softech Forms per page"
+msgstr "Formulaires Softech par page"
+
+#. Author of the plugin
+msgid "Softechure"
+msgstr ""
+
+#: add-new.php:105
+msgid "Status"
+msgstr "Statut"
+
+#: add-new.php:87
+msgid "Subject"
+msgstr "Assujettir"
+
+#: add-new.php:38
+msgid "Success! Your Form saved."
+msgstr "Succès! Votre formulaire enregistré."
+
+#: add-new.php:120 settings.php:85
+msgid "Support Forums"
+msgstr "Forums de support"
+
+#: add-new.php:50
+msgid "Text"
+msgstr "Texte"
+
+#: add-new.php:56
+msgid "Text Area"
+msgstr "Zone de texte"
+
+#: add-shortcode.php:89
+msgid "Thanks for contact us expect a response soon."
+msgstr "Merci de nous contacter, attendez-vous à une réponse bientôt."
+
+#: add-new.php:90
+msgid "To"
+msgstr "À"
+
+#: settings.php:45
+msgid ""
+"To add a new field to your form, Click on Field button which you want in "
+"your form. The field editor toolbox will be opened automatically. Then add a "
+"Label for input to your form. you can also make field Required by simply "
+"check the Required field."
+msgstr ""
+"Pour ajouter un nouveau champ à votre formulaire, cliquez sur le bouton "
+"Champ que vous souhaitez dans votre formulaire. La boîte à outils de "
+"l'éditeur de champs s'ouvrira automatiquement. Ajoutez ensuite une étiquette "
+"à saisir dans votre formulaire. vous pouvez également créer le champ "
+"Obligatoire en cochant simplement le champ Obligatoire."
+
+#: add-shortcode.php:48
+msgid "Your Message Has Been Send!."
+msgstr "Votre message a été envoyé !."
+
+#~ msgid "Email To Cc"
+#~ msgstr "Email à Cc"

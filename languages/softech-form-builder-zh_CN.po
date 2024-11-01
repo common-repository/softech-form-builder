@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-28 09:55+0000\n"
+"PO-Revision-Date: 2018-11-28 16:12+0530\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2\n"
+
+#: add-new.php:93 add-new.php:100
+msgid "* Invalid Email Address."
+msgstr "* 無效的郵件地址。"
+
+#: add-new.php:92 add-new.php:99
+msgid "* Please Enter Email Address."
+msgstr "*請輸入電子郵件地址。"
+
+#: add-new.php:89
+msgid "* Please Enter Email Subject."
+msgstr "*請輸入電子郵件主題。"
+
+#: add-new.php:42
+msgid "* Please Enter Your Form Name."
+msgstr "*請輸入您的表格名稱。"
+
+#: add-new.php:28
+msgid "Add New Form"
+msgstr "添加新表格"
+
+#: list-table.php:175
+msgid "Add new Form"
+msgstr "添加新表格"
+
+#: settings.php:46
+msgid "After adding the fields you have to choose a \"Subject\" & \"Email to\\ field from Email setting Panel on your right side"
+msgstr "添加字段後，您必須從右側的電子郵件設置面板中選擇“主題”和“電子郵件到”字段"
+
+#: settings.php:47
+msgid "After adding your form fields, you can save your form you have made."
+msgstr "添加表單字段後，您可以保存自己的表單。"
+
+#: settings.php:42
+msgid "After the installation is finished, you can go ahead and start working on your forms."
+msgstr "安裝完成後，您可以繼續開始處理表單。"
+
+#: settings.php:63
+msgid "After the saving your form, you can go ahead and publish your forms. "
+msgstr "保存表單後，您可以繼續發布表單"
+
+#: add-new.php:68
+msgid "Agree Box"
+msgstr "同意框"
+
+#: add-shortcode.php:93
+msgid "An unexpected error occurred"
+msgstr "一個意料之外的問題發生了"
+
+#: add-new.php:29
+msgid "Back To List"
+msgstr "返回目錄"
+
+#: add-new.php:65
+msgid "Checkbox"
+msgstr "複選框"
+
+#: settings.php:65
+msgid "Copy the shortcode of the form which you created."
+msgstr "複製您創建的表單的短代碼。"
+
+#. Parent Menu Slug
+#. Page Title
+#: plugin.php:75 plugin.php:76
+msgid "Create Form"
+msgstr "創建表單"
+
+#: list-table.php:65
+msgid "Created Date"
+msgstr "創建日期"
+
+#: settings.php:36
+msgid "Creating a new Form"
+msgstr "創建新表單"
+
+#: list-table.php:42
+msgid "Delete"
+msgstr "刪除"
+
+#: add-new.php:112 settings.php:77
+msgid "Do you need help?"
+msgstr "你需要幫助嗎？"
+
+#: list-table.php:41
+msgid "Edit"
+msgstr "編輯"
+
+#: add-new.php:53
+msgid "Email"
+msgstr "電子郵件"
+
+#: add-new.php:97
+msgid "Email From"
+msgstr "電郵來自"
+
+#: add-new.php:86
+msgid "Email Settings."
+msgstr "電郵設定。"
+
+#: add-new.php:88
+msgid "Email Subject"
+msgstr "電子郵件主題"
+
+#: add-new.php:91
+msgid "Email To"
+msgstr "發郵件給"
+
+#: add-new.php:117 settings.php:82
+msgid "FAQ"
+msgstr "常問問題"
+
+#: add-new.php:76
+msgid "Form Builder Area"
+msgstr "表單生成器區域"
+
+#: list-table.php:63
+msgid "Form Name"
+msgstr "表格名稱"
+
+#: add-new.php:96
+msgid "From"
+msgstr "從"
+
+#. Parent Menu Slug
+#. Page Title
+#: plugin.php:82 plugin.php:83
+msgid "Get Help"
+msgstr "得到幫助"
+
+#: add-new.php:114 settings.php:79
+msgid "Here are some available options to help solve your problems."
+msgstr "以下是一些可用於幫助解決問題的選項。"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://softechure.com/"
+msgstr ""
+
+#: settings.php:20
+msgid "Introduction"
+msgstr "介紹"
+
+#: list-table.php:167
+#, php-format
+msgid "Items deleted: %d"
+msgstr "刪除的項目：％d"
+
+#. Description of the plugin
+msgid "Make a easy form by simple steps"
+msgstr "通過簡單的步驟製作簡單的表格"
+
+#: settings.php:43
+msgid "Navigate to Softech Form Builder > Softech Forms page to build your very first form."
+msgstr "導航到Softech Form Builder> Softech Forms頁面以構建您的第一個表單。"
+
+#: settings.php:64
+msgid "Navigate to Softech Form Builder > Softech Forms page to publish your very first form."
+msgstr "導航到Softech Form Builder> Softech Forms頁面以發布您的第一個表單。"
+
+#: settings.php:66
+msgid "Now paste this shortcode on a page/post where you want to show"
+msgstr "現在將此短代碼粘貼到您要顯示的頁面/帖子上"
+
+#: settings.php:67
+msgid "Now save the page."
+msgstr "現在保存頁面。"
+
+#: add-new.php:98
+msgid "Please Enter Domain Email Id"
+msgstr "請輸入域名電子郵件ID"
+
+#: add-new.php:41
+msgid "Please Enter Your Form Name"
+msgstr "請輸入您的表格名稱"
+
+#: settings.php:44
+msgid "Press Add New Form button from this page, and you will be redirected to Form Editor page. Make sure to write a Title for this form"
+msgstr "按此頁面上的添加新表單按鈕，您將被重定向到表單編輯器頁面。請務必為此表單寫一 個標題"
+
+#: add-new.php:122 settings.php:87
+msgid "Professional Services"
+msgstr "專業的服務"
+
+#: settings.php:57
+msgid "Publishing the Created Form"
+msgstr "發布創建的表單"
+
+#: add-new.php:62
+msgid "Radio Buttons"
+msgstr "單選按鈕"
+
+#: add-new.php:107
+msgid "Save Form"
+msgstr "保存表格"
+
+#: add-new.php:59
+msgid "Select Box"
+msgstr "選擇框"
+
+#: add-new.php:46
+msgid "select input type below and drag it on right side. Then set more options"
+msgstr "選擇下面的輸入類型並將其拖動到右側。然後設置更多選項"
+
+#: list-table.php:64
+msgid "Shortcode"
+msgstr "短代碼"
+
+#. Page Title
+#. Name of the plugin
+#: plugin.php:57 plugin.php:58 settings.php:10
+msgid "Softech Form Builder"
+msgstr ""
+
+#: settings.php:26
+msgid "Softech Form Builder allow you to create contact forms, Reservation forms and other type of forms for your sites in minutes. Softech Form Builder can manage multiple forms, plus you can customize the form and the mail contents. The form supports Ajax-powered submitting and so on."
+msgstr "Softech Form Builder允許您在幾分鐘內為您的站點創建聯繫表單，預訂表單和其他類 型的表單。 Softech Form Builder可以管理多個表單，您還可以自定義表單和郵件內 容。該表單支持Ajax驅動的提交等。"
+
+#: settings.php:27
+msgid "Softech Form Builder make 100% mobile responsive contact form, so your contact forms will always look great on all devices (mobile, tablet, laptop, and desktop)."
+msgstr "Softech Form Builder提供100％移動響應聯繫表單，因此您的聯繫表單在所有設備（移 動設備，平板電腦，筆記本電腦和台式機）上總是看起來很棒。"
+
+#. %s: PHP version
+#: softech-form-builder.php:52
+#, php-format
+msgid "Softech Form Builder requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr "Softech Form Builder 需要PHP版本 ％s+，插件目前尚未運行"
+
+#. %s: WordPress version
+#: softech-form-builder.php:64
+#, php-format
+msgid "Softech Form Builder requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT RUNNING."
+msgstr "Softech Form Builder 需要WordPress版本 ％s+。因為您使用的是早期版本，所以該插 件目前尚未運行"
+
+#. Parent Menu Slug
+#. Page Title
+#: list-table.php:174 plugin.php:67 plugin.php:68
+msgid "Softech Forms"
+msgstr ""
+
+#: list-table.php:145
+msgid "Softech Forms per page"
+msgstr "每頁Softech表格"
+
+#. Author of the plugin
+msgid "Softechure"
+msgstr ""
+
+#: add-new.php:105
+msgid "Status"
+msgstr "狀態"
+
+#: add-new.php:87
+msgid "Subject"
+msgstr "學科"
+
+#: add-new.php:38
+msgid "Success! Your Form saved."
+msgstr "成功！您的表格已保存。"
+
+#: add-new.php:120 settings.php:85
+msgid "Support Forums"
+msgstr "支持論壇"
+
+#: add-new.php:50
+msgid "Text"
+msgstr "文本"
+
+#: add-new.php:56
+msgid "Text Area"
+msgstr "文字區域"
+
+#: add-shortcode.php:89
+msgid "Thanks for contact us expect a response soon."
+msgstr "感謝您與我們聯繫，希望盡快回复。"
+
+#: add-new.php:90
+msgid "To"
+msgstr "至"
+
+#: settings.php:45
+msgid "To add a new field to your form, Click on Field button which you want in your form. The field editor toolbox will be opened automatically. Then add a Label for input to your form. you can also make field Required by simply check the Required field."
+msgstr "要在表單中添加新字段，請單擊表單中所需的“字段”按鈕。字段編輯器工具箱將自動打 開。然後添加一個Label以輸入表單。您也可以通過只需選中必填字段來填寫字段。"
+
+#: add-shortcode.php:48
+msgid "Your Message Has Been Send!."
+msgstr "你的留言已發送!."
+
+#~ msgid "Cc"
+#~ msgstr "抄送"
+
+#~ msgid "Docs"
+#~ msgstr "文件"
+
+#~ msgid "Email To Cc"
+#~ msgstr "電郵至抄送"
